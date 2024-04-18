@@ -1,6 +1,6 @@
 # citibike_NY
 
-This <a href="https://www.youtube.com/watch?v=gDD-GttqAjU&list=PLPQFqkp_HvOBzx61F3SY5zNXN0TYMoT9g&t=40s">challenge</a> was found on Couch2Coders YouTube channel using citybike_trips public data in Bigquery. It is splitted into three parts.
+This <a href="https://www.youtube.com/watch?v=gDD-GttqAjU&list=PLPQFqkp_HvOBzx61F3SY5zNXN0TYMoT9g&t=40s">challenge</a> was found on Couch2Coders YouTube channel using citybike_trips public data in Bigquery. It is splitted into three parts before pulling everything together using CTE.
 
 <b>Part 1:</b>
 <ul>
